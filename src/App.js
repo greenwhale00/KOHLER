@@ -5,8 +5,8 @@ import Header from "./components/Header";
 import Main from "./components/Main";
 
 
-
 import './css/common.css'
+import './css/basic.scss'
 
 const App = () => {
   return (
