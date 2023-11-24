@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kohler%20/static/css/main.082def4c.css",
+    "main.js": "/kohler%20/static/js/main.dc99ee78.js",
+    "index.html": "/kohler%20/index.html",
+    "main.082def4c.css.map": "/kohler%20/static/css/main.082def4c.css.map",
+    "main.dc99ee78.js.map": "/kohler%20/static/js/main.dc99ee78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082def4c.css",
+    "static/js/main.dc99ee78.js"
+  ]
+}
